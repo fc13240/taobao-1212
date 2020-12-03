@@ -1,3 +1,6 @@
+实时更新原代码，并加入新功能：
+增加自动下滑浏览功能。
+
 ![](https://img.shields.io/badge/version-1.1.1-blue) ![](https://img.shields.io/badge/-Auto.js-yellowgreen) ![](https://img.shields.io/badge/-JavaScript-orange) ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E7%BE%A4-important)
 # 淘宝双十二活动脚本
 ## 更新日志
